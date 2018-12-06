@@ -2,3 +2,4 @@ hello! I love to learn git
 
 This is my new line, post first commitment
 
+hello prof, thanks for letting me come teach in your class!
